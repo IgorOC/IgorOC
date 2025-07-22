@@ -6,7 +6,7 @@ Uma breve descrição sobre o que esse projeto faz e para quem ele é
 # 👋 Olá, eu sou o Igor Cordeiro
 
 🎯 Desenvolvedor em formação com foco em desenvolvimento **Full Stack e Mobile**.  
-💻 Trabalho atualmente como estagiário na **Compass UOL**, aplicando React Native, AWS e boas práticas de Clean Code.  
+💻 Ex-estagiário na **Compass UOL**, onde atuei com React Native, AWS e boas práticas de Clean Code em projetos reais.
 🚀 Me interesso por soluções eficientes, escaláveis e que geram impacto real!
 
 ---
