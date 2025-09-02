@@ -12,7 +12,7 @@ Uma breve descrição sobre o que esse projeto faz e para quem ele é
 ---
 
 ## 🚧 Atualmente trabalhando com:
-- React | React Native | Next.js | TypeScript
+- React | React Native | Next.js | TypeScript| JavaScript
 - Node.js | Express | MongoDB | PostgreSQL | Supabase
 - AWS (EC2, S3, Lambda) | Docker | Firebase | Vercel
 - Metodologias Ágeis | Git & GitHub | CI/CD básico
