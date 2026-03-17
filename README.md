@@ -45,12 +45,6 @@ Uma breve descrição sobre o que esse projeto faz e para quem ele é
 
 ---
 
-## 📈 GitHub Stats
-
-![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorOC&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorOC&layout=compact&theme=radical)
-
----
 
 ## 📫 Entre em contato
 
